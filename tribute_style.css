@@ -1,0 +1,45 @@
+body {
+  background: #FFF;
+}
+
+#title, #tagline {
+  text-align: center;
+}
+
+#container {
+  background: #f5f3d5;
+  width: 60%;
+  margin: auto;
+  border: 2px solid;
+  border-radius: 2%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  max-width: 100%;
+}
+
+#img-caption {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+ul {
+  width: 50%;
+  margin: auto;
+}
+
+li {
+  text-align: left;
+}
+
+blockquote {
+  text-align: center;
+}
